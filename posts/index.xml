@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 低糖乌龙茶</title>
+    <link>https://mengche.github.io/posts/</link>
+    <description>Recent content in Posts on 低糖乌龙茶</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Mon, 18 May 2020 01:54:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://mengche.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Init</title>
+      <link>https://mengche.github.io/posts/init/</link>
+      <pubDate>Mon, 18 May 2020 01:54:29 +0800</pubDate>
+      
+      <guid>https://mengche.github.io/posts/init/</guid>
+      <description>开这个博客的主要原因还是想记录一些不成熟的所思所想。
+其实回过头来看这些年的所学、所想、所思基本都是拜互联网所赐。
+工作上基本都是靠谷歌尝试寻找解决方案，系统性的阅读一些文章和 pdf 文档的时间其实早就远超线下的时间，更遑论各种社交网络工具不断地侵蚀私人领域。
+最终觉得还是开个 Blog 简单的记录一下比较好，给自己和别人都留下些痕迹。</description>
+    </item>
+    
+  </channel>
+</rss>
